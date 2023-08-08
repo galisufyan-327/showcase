@@ -1,0 +1,8 @@
+{
+  "port": 4000,
+  "database": {
+    "connection": "mongodb://localhost:27017/showcase"
+  },
+  "environment": "development",
+  "jwtToken": "jsjVitc$IHbtsNd7$W9RJtVpmJNhL2)hf9we$h7f"
+}
